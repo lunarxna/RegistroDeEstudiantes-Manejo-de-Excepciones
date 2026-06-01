@@ -1,0 +1,16 @@
+C:\Users\UserGPC\Desktop\Proyectos-tareas\Registro de estudiantes y excepciones\RegistroDeEstudiantes_ManejoExcepciones\bin\Debug\net8.0-windows\RegistroDeEstudiantes_ManejoExcepciones.exe
+C:\Users\UserGPC\Desktop\Proyectos-tareas\Registro de estudiantes y excepciones\RegistroDeEstudiantes_ManejoExcepciones\bin\Debug\net8.0-windows\RegistroDeEstudiantes_ManejoExcepciones.deps.json
+C:\Users\UserGPC\Desktop\Proyectos-tareas\Registro de estudiantes y excepciones\RegistroDeEstudiantes_ManejoExcepciones\bin\Debug\net8.0-windows\RegistroDeEstudiantes_ManejoExcepciones.runtimeconfig.json
+C:\Users\UserGPC\Desktop\Proyectos-tareas\Registro de estudiantes y excepciones\RegistroDeEstudiantes_ManejoExcepciones\bin\Debug\net8.0-windows\RegistroDeEstudiantes_ManejoExcepciones.dll
+C:\Users\UserGPC\Desktop\Proyectos-tareas\Registro de estudiantes y excepciones\RegistroDeEstudiantes_ManejoExcepciones\bin\Debug\net8.0-windows\RegistroDeEstudiantes_ManejoExcepciones.pdb
+C:\Users\UserGPC\Desktop\Proyectos-tareas\Registro de estudiantes y excepciones\RegistroDeEstudiantes_ManejoExcepciones\obj\Debug\net8.0-windows\RegistroDeEstudiantes_ManejoExcepciones.Form1.resources
+C:\Users\UserGPC\Desktop\Proyectos-tareas\Registro de estudiantes y excepciones\RegistroDeEstudiantes_ManejoExcepciones\obj\Debug\net8.0-windows\RegistroDeEstudiantes_ManejoExcepciones.csproj.GenerateResource.cache
+C:\Users\UserGPC\Desktop\Proyectos-tareas\Registro de estudiantes y excepciones\RegistroDeEstudiantes_ManejoExcepciones\obj\Debug\net8.0-windows\RegistroDeEstudiantes_ManejoExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserGPC\Desktop\Proyectos-tareas\Registro de estudiantes y excepciones\RegistroDeEstudiantes_ManejoExcepciones\obj\Debug\net8.0-windows\RegistroDeEstudiantes_ManejoExcepciones.AssemblyInfoInputs.cache
+C:\Users\UserGPC\Desktop\Proyectos-tareas\Registro de estudiantes y excepciones\RegistroDeEstudiantes_ManejoExcepciones\obj\Debug\net8.0-windows\RegistroDeEstudiantes_ManejoExcepciones.AssemblyInfo.cs
+C:\Users\UserGPC\Desktop\Proyectos-tareas\Registro de estudiantes y excepciones\RegistroDeEstudiantes_ManejoExcepciones\obj\Debug\net8.0-windows\RegistroDeEstudiantes_ManejoExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\Desktop\Proyectos-tareas\Registro de estudiantes y excepciones\RegistroDeEstudiantes_ManejoExcepciones\obj\Debug\net8.0-windows\RegistroDeEstudiantes_ManejoExcepciones.dll
+C:\Users\UserGPC\Desktop\Proyectos-tareas\Registro de estudiantes y excepciones\RegistroDeEstudiantes_ManejoExcepciones\obj\Debug\net8.0-windows\refint\RegistroDeEstudiantes_ManejoExcepciones.dll
+C:\Users\UserGPC\Desktop\Proyectos-tareas\Registro de estudiantes y excepciones\RegistroDeEstudiantes_ManejoExcepciones\obj\Debug\net8.0-windows\RegistroDeEstudiantes_ManejoExcepciones.pdb
+C:\Users\UserGPC\Desktop\Proyectos-tareas\Registro de estudiantes y excepciones\RegistroDeEstudiantes_ManejoExcepciones\obj\Debug\net8.0-windows\RegistroDeEstudiantes_ManejoExcepciones.genruntimeconfig.cache
+C:\Users\UserGPC\Desktop\Proyectos-tareas\Registro de estudiantes y excepciones\RegistroDeEstudiantes_ManejoExcepciones\obj\Debug\net8.0-windows\ref\RegistroDeEstudiantes_ManejoExcepciones.dll
